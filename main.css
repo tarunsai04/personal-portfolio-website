@@ -1,0 +1,377 @@
+
+
+#title{
+    background: rgba(0, 0, 0, 0.7)url(goood.jpg);
+    background-blend-mode: darken;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: sticky;
+    
+    
+}
+
+nav ul li a {
+    color: white !important;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 25px;
+}
+nav a{
+    color: white !important;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav ul li a:hover{
+    color: lightslategrey !important;
+    
+
+}
+
+nav ul li a.active{
+    color: red !important;
+}
+#h{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: orangered;
+    align-items: center;
+    margin-top: 270px;
+    margin-left: 500px;
+}
+
+#hh{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+    margin-left: 500px;
+}
+.mid button {
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    border-radius: 8px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+    
+.project{
+    background-color:  #202020;
+    padding: 10px;
+}
+.project img{
+    margin-top: 10px;
+}
+#ph{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-left: 600px;
+    color: orangered;
+}
+    
+#jarvis{
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+    margin-left: 350px;
+    bottom: 800px;
+    margin-top: -300px;
+
+}
+
+
+
+
+
+#icon{
+    margin-top: 500px;
+}
+
+#sk{
+    margin-top: 200px;
+    margin-left: 750px;
+}
+#icon{
+    color: blue;
+    margin-bottom: 15px;
+}
+#skk{
+    display: inline-block;
+    margin-top: 15px;
+    color: orangered;
+}
+
+#iconn{
+    padding: 0;
+    width: 3rem;
+}
+.ks{
+    padding: 8px;
+    margin-top: -80px;
+}
+#skkk{
+    margin-left: 50px;
+    color: orangered;
+}
+#skkkk{
+    margin-left: 50px;
+    color: orangered;
+}
+
+
+.mainslot{
+    text-align: center;
+}
+
+   
+#hhh{
+    margin-top: -1px;
+    margin-right: 200px;
+    color: white;
+}
+.skill{
+    background: #2a2a2a;
+}
+#sk{
+    margin-right: 980px;
+    color: orangered;
+    margin-top: -2px;
+}
+.ks{
+    margin-top: 100px ;
+}
+
+#ps{
+    margin-left: 50px;
+    color: white;
+}
+
+#pss{
+    margin-left: 50px;
+    color: white;
+}
+
+#psss{
+    margin-left: 50px;
+    color: white;
+}
+
+.contactform{
+    background-color: #202020;
+    font-family: 'Motserrat',sans-serif;
+    font-weight: bold;
+}
+
+#cf{
+    color: orangered;
+    font-family: 'Motserrat',sans-serif;
+    font-weight: bold;
+    margin-left: 300px;
+    padding: 20px;
+}
+#cff{
+    color: white;
+    font-family: 'Motserrat',sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    margin-left: 300px;
+}
+
+#pcf{
+    color: #ccc;
+    padding: 15px;
+    margin-left: 300px;
+    margin-top: -30px;
+}
+#ecf{
+    color: #ccc;
+    margin-left: 50px;
+    margin-left: 318px;
+}
+#sef{
+    color: #ccc;
+    margin-left: 318px;
+
+}
+#insta{
+    height: 45px;
+    width: 45px;
+    color: #ccc;
+    background-color: orangered;
+    font-size: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    transition: all .45s ease;
+   
+}
+#twit{
+    height: 45px;
+    width: 45px;
+    color: #ccc;
+    background-color: orangered;
+    font-size: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+#med{
+    height: 45px;
+    width: 45px;
+    color: #ccc;
+    background-color: orangered;
+    font-size: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    
+}
+.iconss{
+    justify-content: space-evenly;
+    transition: all .45s ease;
+    margin-left: 318px;
+}
+
+.iconns a i{
+    text-decoration: none !important;
+    
+}
+
+.iconss i:hover{
+    background: #ccc !important;
+    color: orangered !important;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.contact{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 2.5rem;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+
+.contact form{
+    position: relative;
+}
+
+.contact form input, form textarea{
+    width: 100%;
+    padding: 14px;
+    background: #2a2a2a;
+    color: #ccc;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.contact textarea{
+    resize: none;
+    height: 240px;
+}
+
+.contact .submit{
+    display: inline-block;
+    font-size: 16px;
+    background: orangered;
+    color: #ccc;
+    width: 160px;
+    transition: all .45s ease;
+}
+
+.contact .submit:hover{
+    transform: scale(1.1);
+}
+
+.end{
+    padding: 20px 15%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    background: #2a2a2a;
+    color: #ccc;
+}
+
+.top i{
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 15px;
+    color: #ccc;
+    background: orangered ;
+}
+
+@media (max-width: 1480px){
+    header{
+        padding: 12px 2.5%;
+        transition: 1s;
+    }
+    section{
+        padding: 110px 3% 60px;
+    }
+    .end{
+        padding: 15px 3%;
+    }
+}
+@media (max-width: 1100x){
+    :root{
+        --big-font: 4rem;
+        --h2-font:2.5rem;
+        --p-font: 1rem;
+        transition: 1s;
+    }
+
+    .home-text h3{
+        font-size: 2.5rem ;
+    }
+    .home{
+        height: 87vh;
+    }
+}
+
+@media (max-width: 920px){
+    .pproject{
+        grid-template-columns: 1fr;
+    }
+    .contact{
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 840px){
+    .collapse{
+        display: block;
+    }
+}
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+      width: 100%;
+    }
+}
